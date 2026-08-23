@@ -9,7 +9,7 @@
     "test": "npm run build && npm start"
   },
   "dependencies": {
-    "mongoose": "7.5.1"
+    "mongoose": "https://npm.aikido.io/5d31abe78fd05d20fa3c/mongoose@7.8.8-tuxcare.1"
   },
   "devDependencies": {
     "typescript": "^5.8.2"
